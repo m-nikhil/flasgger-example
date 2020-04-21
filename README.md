@@ -1,7 +1,7 @@
 ### Setup
 - pip3 install pipenv
 - pipenv install (in the pipfile dir)
-- flask run
+- sh start.sh
 
 ### To install any py package
 - pipenv install <package-name>
